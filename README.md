@@ -1,6 +1,6 @@
 Tic Tac Toe Game:
 
-The game is developed using c++ .It has two modes for playing , One player  and Two players.One player mode has smart computer moves  to defeat player.
+The game is developed using c++ .It has two modes One player and Two players.One player mode has smart computer moves  to defeat player.
 
 In the code there are three classes Borad,UserComp and player. 
 
